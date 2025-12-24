@@ -1,4 +1,4 @@
-#### Please visit the wiki for more info https://github.com/muhamed-hassan/computer-organization-and-architecture/wiki
+#### Please visit the [wiki](https://github.com/muhamed-hassan/computer-organization-and-architecture/wiki) for more info
 
 *** 
 
